@@ -59,7 +59,8 @@ This is the correct answer feedback.
 This is the incorrect answer feedback.
 
 
-[Screenshot 2025-05-21 185903](https://github.com/user-attachments/assets/e7891728-0921-40b1-83f1-58d990ca2e6d)
+![Screenshot 2025-05-21 185848](https://github.com/user-attachments/assets/fe9ee6de-f021-48b5-a1e6-a979f68f97d0)
+
 
 
  This is the score screen which shows feedback based on my score as well as my score.
