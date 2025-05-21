@@ -34,27 +34,39 @@ This is the UI for my final screen the review screen this screen is to display t
 
 This is the code used for my final screen as you can see on the top of the screenshot is where I called the users score as well as calling the total questions which was five. I had also called both the questions array as well as the answers array. Which are respectively called the stringarray and the booleanarray. After I called the arrays I then proceeded to declare my variables and link the .kt to the .xml. the next line of code is just how I displayed the score to the user. The following lines of code are how the feedback is displayed and how the feedback is understood by the IDE and how the IDE calculates what feedback to give dependant on the score. The last thing in my repart is the exit button as you can see I have used the finishaffinity command wich terminates all process and in turn terminates the app. I will include screen shots of the working app below.
  
+
  ![Screenshot 2025-05-21 185805](https://github.com/user-attachments/assets/1f17bcaa-5022-4266-a3d4-35c47d01d448)
+
 
 This is my intro screen.
  
+ 
  ![Screenshot 2025-05-21 185818](https://github.com/user-attachments/assets/7213f730-40f5-4b30-9c7f-0abc814bc069)
+
 
 This is my main game page also my first question I haven’t included all the questions as there will be a demonstration in the video
 
+
 ![Screenshot 2025-05-21 185827](https://github.com/user-attachments/assets/7e0f979f-5e76-44e0-9f6a-e7414695224e)
+
 
 This is the correct answer feedback.
  
+
  ![Screenshot 2025-05-21 185848](https://github.com/user-attachments/assets/71bee414-2b5a-4a27-b3d5-2cf5f91d2f6c)
+
 
 This is the incorrect answer feedback.
 
-![Screenshot 2025-05-21 185903](https://github.com/user-attachments/assets/e7891728-0921-40b1-83f1-58d990ca2e6d)
+
+[Screenshot 2025-05-21 185903](https://github.com/user-attachments/assets/e7891728-0921-40b1-83f1-58d990ca2e6d)
+
 
  This is the score screen which shows feedback based on my score as well as my score.
  
+
  ![Screenshot 2025-05-21 185913](https://github.com/user-attachments/assets/dfd63b7c-28e2-4eea-8450-5fb9d82fc681)
+
 
 This is the review button at work when hit it’ll display the answers and there corresponding questions
 
